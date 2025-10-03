@@ -1,3 +1,4 @@
+<img width="1909" height="963" alt="Screenshot 2025-10-04 001302" src="https://github.com/user-attachments/assets/7fcd79b3-06a2-47ac-a52e-6e127079059a" />
 # PDF QnA Bot
 
 An AI-powered chatbot that allows users to upload PDF documents and ask questions to get answers based on the content of the uploaded PDF. Built using Streamlit, Langchain, and Groq API.
@@ -66,3 +67,4 @@ Feel free to open issues or submit pull requests for improvements.
 ## License
 
 This project is open-source. Please check the license file for details.
+
