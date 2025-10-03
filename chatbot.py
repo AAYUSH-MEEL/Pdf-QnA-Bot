@@ -9,7 +9,7 @@ from langchain.chains import RetrievalQA
 
 
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "YOUR_GROQ_API_KEY"
 
 st.header(" AI Chatbot")
 
@@ -60,4 +60,5 @@ if file is not None:
        
        
        
+
     
