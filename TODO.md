@@ -1,0 +1,4 @@
+- [x] Update import to use RetrievalQA instead of load_qa_chain
+- [x] Correct the environment variable name to GROQ_API_KEY
+- [x] Modify the chain instantiation and execution to use RetrievalQA
+- [ ] Test the Streamlit app to ensure it works
